@@ -1,3 +1,5 @@
+ //Write a program to obtain a number N and increment its value by 1 if the number is divisible by 4 otherwise decrement its value by 1.
+
 #include<bits/stdc++.h>
 #define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
 #define ll unsigned long long
