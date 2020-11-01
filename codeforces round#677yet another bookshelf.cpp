@@ -1,3 +1,8 @@
+//below is the link of the question:
+//https://codeforces.com/contest/1433/problem/B
+
+
+
 #include<bits/stdc++.h>
 #define fastio ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
 #define ll long long int
