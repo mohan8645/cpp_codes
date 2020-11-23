@@ -1,8 +1,8 @@
-int 32_t main()
+int32_t main()
 {
 #define ONLINE_JUDGE
 	freopen("input1.txt","r",stdin);
-	freopen("output1.txt","w",stdout);
+f	reopen("output1.txt","w",stdout);
 #endif
 tc{
 	int n,ans=0;

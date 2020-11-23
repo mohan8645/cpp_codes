@@ -6,7 +6,7 @@
 using namespace std;
 int maxmseq(int a[],int n)
 {
-		int prev=-1,m=0;
+  		int prev=-1,m=0;
 		for(int i=1;i<=n;i++)
 		{
 			if(prev!=a[i])

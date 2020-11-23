@@ -7,8 +7,8 @@ int main()
 {
   int t;cin>>t;while(t--)
   {
-    int n,m,r;cin>>n;
-    int sum=0;
+    int n,m,r;cin>>n;14
+    int sum=0;    
     m=n;
     while(n>0)
     {
@@ -21,5 +21,6 @@ int main()
      else
       cout<<"not an armstrong number"<<endl;
   }
+  
   return 0;
 }
